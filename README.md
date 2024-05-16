@@ -1,6 +1,6 @@
 # Mentorness
 
-## [Task 1: Reel Task]()
+## Task 1: [Reel Task](https://github.com/NaveenJunjur123/Mentorness/tree/main/Task%201)
 ### To create original, 30-second to 1 minute video on topic received in email with voiceovers. Submit via provided form with title and video file by deadline.
 
 ## [Task 2: SQL Analysis]()
